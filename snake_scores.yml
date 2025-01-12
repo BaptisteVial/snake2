@@ -1,0 +1,8 @@
+- name: Joe
+  value: 100
+- name: Jack
+  value: 80
+- name: William
+  value: 60
+- name: Averell
+  value: 40
